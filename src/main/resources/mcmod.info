@@ -1,0 +1,13 @@
+[
+{
+	"modid": "amasserverutilities",
+	"name": "Ama's Server Utilities",
+	"version": "${version}",
+	"authorList": [
+	   "amadornes"
+	],
+	"credits": "amadornes",
+	"screenshots": [],
+	"parent": ""
+}
+]
